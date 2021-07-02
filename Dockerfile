@@ -1,4 +1,4 @@
-# 2. Fix Dockerfile
+#2. fix and feature of dockerfile
 # Fix implemented! STSA
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
