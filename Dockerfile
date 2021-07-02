@@ -1,3 +1,4 @@
+# 2. Fix Dockerfile
 # Fix implemented! STSA
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
